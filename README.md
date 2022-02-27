@@ -1,8 +1,8 @@
 # vue-apollo-firebase-bkm
 
-E-commorce web site project clon of the bkm-kitap.com
+bkm-kitap.com's clone e-commerce site project
 
-Building with vue.js.
+Used vue.js for front-end.
 
 Used Firebase for User Authentication.
 
