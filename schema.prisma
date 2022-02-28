@@ -1,4 +1,0 @@
-datasource db {
-  provider = "mysql"
-  url = "mysql://3zieew9yrn0k:************@12j6qn46tm5g.us-east-1.psdb.cloud/vue-bkm-apollo-firebase?sslaccept=strict"
-}
